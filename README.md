@@ -1,8 +1,6 @@
 # CloudNova-website-AWS-Deployment
 A responsive website deployed and hosted on Amazon EC2
 
-# CloudNova — AWS EC2 Website Deployment
-
 ##  Project Overview
 
 CloudNova is a responsive website that I designed and deployed on Amazon Web Services (AWS) using an Amazon EC2 instance.
